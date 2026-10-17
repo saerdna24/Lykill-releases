@@ -1,10 +1,9 @@
 # Lykill
 
-Ein Dokumentenarchiv für den Mac, das Ihre Dateien bei Ihnen behält: Dateien importieren, mit
-vollständiger Versionsgeschichte sicher aufbewahren, per Volltextsuche sofort wiederfinden und mit
-Metadaten ordnen.
+Ein Passwort-Manager für Mac und iPhone, der Ihre Daten bei Ihnen behält: Ende-zu-Ende-verschlüsselt,
+mit einem Master-Passwort, das nie gespeichert oder übertragen wird.
 
-> *Lykill* ist das isländische Wort für **Dokument**.
+> *Lykill* ist das isländische Wort für **Schlüssel**.
 
 ## Download
 
@@ -15,28 +14,24 @@ Laden Sie dort unter **Assets** die Datei **`Lykill-X.Y.Z.zip`** herunter. Die E
 
 ## Funktionen
 
-- **Jede Datei importieren** – PDF, Bilder, Word, Excel, E-Mails und mehr, auch automatisch aus einem
-  überwachten Ordner
-- **Versionsgeschichte und Papierkorb** – frühere Fassungen und gelöschte Dokumente lassen sich
-  wiederherstellen
-- **Volltextsuche** – auch in PDFs, Office-Dokumenten und Bildern (Texterkennung)
-- **Ordner, Tags und Dokumenttypen** – mit eigenen Feldern je Dokumenttyp
-- **KI-Vorschläge** für Titel, Tags und Felder – mit einem lokalen Modell, ohne dass Dokumente das
-  Haus verlassen
-- **Synchronisation** über einen eigenen WebDAV-Server, z. B. ein NAS
+- **Anmeldungen, Karten, Notizen, Identitäten** – jedes geheime Feld einzeln mit AES-256-GCM verschlüsselt
+- **AutoFill** für Passwörter, Passkeys und Bestätigungscodes (TOTP) in Safari und anderen Apps
+- **Entsperren mit Touch ID** oder der Apple Watch
+- **Import** aus KeePass/KeePassXC und verschlüsselte Sicherungskopien
+- **Synchronisation** über einen eigenen WebDAV-Server, z. B. ein NAS – der Server sieht nur verschlüsselte Daten
 
 ## Voraussetzungen
 
-- **macOS 26.4** (Tahoe) oder neuer
+- **macOS 14** (Sonoma) oder neuer
 - Läuft auf **Intel-Macs** und **Macs mit Apple Silicon**
-- KI-Vorschläge mit Apple Intelligence oder dem eingebauten Llama-Modell benötigen Apple Silicon; auf
-  Intel-Macs nutzt Lykill dafür [Ollama](https://ollama.com)
+- Ein **Zugangsschlüssel** – Lykill wird privat weitergegeben. Ohne Schlüssel öffnet sich ein
+  vorhandener Tresor schreibgeschützt.
 
 ## Installation
 
 1. Die ZIP-Datei herunterladen und öffnen (Doppelklick entpackt sie).
 2. **Lykill** in den Ordner **Programme** ziehen.
-3. Lykill starten.
+3. Lykill starten und den Zugangsschlüssel einfügen.
 
 Die App ist von Apple beglaubigt (notarisiert) und öffnet sich ohne Warnhinweis.
 
