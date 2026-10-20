@@ -3,12 +3,23 @@
     <channel>
         <title>Lykill</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Tue, 20 Oct 2026 15:40:45 +0200</pubDate>
+            <sparkle:version>303</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.1.0/Lykill-1.1.0.zip" length="5408884" type="application/octet-stream" sparkle:edSignature="+dcw7daiIeQ3TK2oEwQTgO50mLR0i32Af0CDW6VK2Za3Urd+CdRw7kzInTyHSfQUbLgeJwQvNLyx6HTh1INQAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.1.0/Lykill303-296.delta" sparkle:deltaFrom="296" length="677902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="34R3fBWrvBo9LXyzJmGyM1ETxd59I7lsnwy7C5LakxuFRrNvf6lUSjCTlaOYVNEKHH46gCzXHO8v5ELHfdLMAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sun, 18 Oct 2026 14:57:57 +0200</pubDate>
             <sparkle:version>296</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.0.0/Lykill-1.0.0.zip" length="5366814" type="application/octet-stream" sparkle:edSignature="479/jtpKAjAcK1mXovwb5hKao5otISvrCEZrFIsXVSm/zLEnKhPqvNoim7nERkCwvSYGjP2KAQ0UrZAkoXrrCg=="/>
+            <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.1.0/Lykill-1.0.0.zip" length="5366814" type="application/octet-stream" sparkle:edSignature="479/jtpKAjAcK1mXovwb5hKao5otISvrCEZrFIsXVSm/zLEnKhPqvNoim7nERkCwvSYGjP2KAQ0UrZAkoXrrCg=="/>
         </item>
     </channel>
 </rss>
