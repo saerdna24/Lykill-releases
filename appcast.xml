@@ -3,12 +3,24 @@
     <channel>
         <title>Lykill</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Tue, 03 Nov 2026 12:28:30 +0100</pubDate>
+            <sparkle:version>312</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.2.0/Lykill-1.2.0.zip" length="5787339" type="application/octet-stream" sparkle:edSignature="MOnHcpRYT81pfmnpf6hbOd8dfeZ5ED6nHU46ecyQt6gKdWIx01+qN+x+xjORkBkY9G3PR9xx3nXNCdzBy3FpAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.2.0/Lykill312-303.delta" sparkle:deltaFrom="303" length="1276490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6iF5ZOSLo/cM1dGN0RUGcujoXPPxSIAU8eAeHBOzsXO33bco7WejD8u0NIUcnaGVP5uWdhyGLDJuRTs98E4uDw=="/>
+                <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.2.0/Lykill312-296.delta" sparkle:deltaFrom="296" length="1344682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DhslvOlf00AKGe88JL7kFpQCf0xMhdNxt4Go/UBvKx/w9PCZgI/y5Bi4O7N4+LjqCi/BeDYZuOhgA7GqPdikDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Tue, 20 Oct 2026 15:40:45 +0200</pubDate>
             <sparkle:version>303</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.1.0/Lykill-1.1.0.zip" length="5408884" type="application/octet-stream" sparkle:edSignature="+dcw7daiIeQ3TK2oEwQTgO50mLR0i32Af0CDW6VK2Za3Urd+CdRw7kzInTyHSfQUbLgeJwQvNLyx6HTh1INQAg=="/>
+            <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.2.0/Lykill-1.1.0.zip" length="5408884" type="application/octet-stream" sparkle:edSignature="+dcw7daiIeQ3TK2oEwQTgO50mLR0i32Af0CDW6VK2Za3Urd+CdRw7kzInTyHSfQUbLgeJwQvNLyx6HTh1INQAg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.1.0/Lykill303-296.delta" sparkle:deltaFrom="296" length="677902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="34R3fBWrvBo9LXyzJmGyM1ETxd59I7lsnwy7C5LakxuFRrNvf6lUSjCTlaOYVNEKHH46gCzXHO8v5ELHfdLMAQ=="/>
             </sparkle:deltas>
@@ -19,7 +31,7 @@
             <sparkle:version>296</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.1.0/Lykill-1.0.0.zip" length="5366814" type="application/octet-stream" sparkle:edSignature="479/jtpKAjAcK1mXovwb5hKao5otISvrCEZrFIsXVSm/zLEnKhPqvNoim7nERkCwvSYGjP2KAQ0UrZAkoXrrCg=="/>
+            <enclosure url="https://github.com/saerdna24/Lykill-releases/releases/download/v1.2.0/Lykill-1.0.0.zip" length="5366814" type="application/octet-stream" sparkle:edSignature="479/jtpKAjAcK1mXovwb5hKao5otISvrCEZrFIsXVSm/zLEnKhPqvNoim7nERkCwvSYGjP2KAQ0UrZAkoXrrCg=="/>
         </item>
     </channel>
 </rss>
